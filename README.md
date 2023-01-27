@@ -11,3 +11,6 @@ Indian Badminton
 2. Jwala 
 3. Pv Sindhu
 
+* Pakistan Badminton Team
+* China Badminton Team
+* Afgansithan Badminton Team 
