@@ -33,7 +33,7 @@ Indian Badminton
 
 ---
 ### Code Fencing
-> How to smooth scroll using Jquery ?
+> How to smooth scroll using Jquery ? <br>
 <https://stackoverflow.com/questions/7717527/smooth-scrolling-when-clicking-an-anchor-link>
 ```
 //Smooth scrolling with links
