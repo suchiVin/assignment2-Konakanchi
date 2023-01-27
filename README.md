@@ -33,7 +33,7 @@ Indian Badminton
 
 ---
 ### Code Fencing
-> How to smooth scroll using Jquery(https://stackoverflow.com/questions/7717527/smooth-scrolling-when-clicking-an-anchor-link)
+> [How to smooth scroll using Jquery?](https://stackoverflow.com/questions/7717527/smooth-scrolling-when-clicking-an-anchor-link)
 
 ```
 //Smooth scrolling with links
@@ -47,4 +47,4 @@ $(document).ready(function(){
   $('html,body').animate({scrollTop:$(location.hash).offset().‌​top}, 500);
 });
 ```
-(https://css-tricks.com/snippets/jquery/smooth-scrolling/)
+[Smooth Scrolling snippet](https://css-tricks.com/snippets/jquery/smooth-scrolling/)
