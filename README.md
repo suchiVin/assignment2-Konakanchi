@@ -30,3 +30,21 @@ Indian Badminton
 ### Funny Quotes 
 > Keep the change ya filthy animal - ***HOME ALONE*** <br>
 > I like animals , I really do, but some animals are just meant to be eaten - ***Emmanuelle Vaugier***
+
+---
+### Code Fencing
+> How to smooth scroll using Jquery ?
+<https://stackoverflow.com/questions/7717527/smooth-scrolling-when-clicking-an-anchor-link>
+```
+//Smooth scrolling with links
+$('a[href^=\\#]').on('click', function(event){     
+    event.preventDefault();
+    $('html,body').animate({scrollTop:$(this.hash).offset().top}, 500);
+});
+
+// Smooth scrolling when the document is loaded and ready
+$(document).ready(function(){
+  $('html,body').animate({scrollTop:$(location.hash).offset().‌​top}, 500);
+});
+```
+<https://css-tricks.com/snippets/jquery/smooth-scrolling/>
