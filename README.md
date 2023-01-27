@@ -24,4 +24,9 @@ Indian Badminton
 | South Korea | Unique Asian Culture ,amazing Buddhist Temples , UNESCO worlds heritage sites | Spring 15 days |
 | United states of America | Niagara Falls ,Newyork | 10days |
 | Vietnam | The beauty of nature ,get to know local unique culture | 25days | 
-| North Korea | To die in the hands of KIM | 5days |
+| North Korea | To die in the hands of KIM | 5days | 
+
+---
+### Funny Quotes 
+> Keep the change ya filthy animal - ***HOME ALONE***
+> I like animals , I really do, but some animals are just meant to be eaten - ***Emmanuelle Vaugier***
