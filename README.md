@@ -28,5 +28,5 @@ Indian Badminton
 
 ---
 ### Funny Quotes 
-> Keep the change ya filthy animal - ***HOME ALONE***
+> Keep the change ya filthy animal - ***HOME ALONE*** <br>
 > I like animals , I really do, but some animals are just meant to be eaten - ***Emmanuelle Vaugier***
